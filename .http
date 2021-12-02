@@ -1,0 +1,7 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+{
+"BookName":"Alice in Wonderland",
+"IssuerName":"Amrithanshu",
+"Date":"10-06-2021"
+}
